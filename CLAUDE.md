@@ -14,13 +14,8 @@ The OBSD Case Writing Kit: copy-paste prompts that turn a news article into a cl
 
 - `OBSD-case-writing-kit.md`: the kit (full version, light version, repair prompts, worked example).
 - `cases/README.md`: format for contributed cases.
-- `README.md`, `LICENSE.md`.
 
 ## This repo's limits
 
 - The method stays credited to its three authors (`README.md`).
 - Keep the kit as plain text or markdown that can be copied from directly; no PDF copies.
-
-## Procedures
-
-None.
